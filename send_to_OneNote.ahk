@@ -6,11 +6,6 @@ Send selected rich text to OneNote (Silently) from anywhere
 Hot Key windows + A
 
 ----------------------------------------------------------------
-
-This is my first post to this forum, and this is my first really helpful script to do something. I hope your suggestions will make it better.
-
-I have not find any alternative to what this script can do, if you have something similar in knowledge please let me know.
-
 */
 
 
