@@ -1,7 +1,7 @@
 Send-selected-rich-text-to-OneNote
 ==================================
 
-Sends selected rich text to OneNote (Silently) from anywhere br pressing Hot key windows + A
+Windows: Selected text can be send to quick note section of your notebook by pressing Windows + A keyboard shortcut. To start using this application download the exe file and let it but in background or you can use the ahk script but it requires autohot key to be installed on your windows PC.
 
 
 
